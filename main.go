@@ -11,6 +11,8 @@ const (
 	apiEndpoint = "https://api.openai.com/v1/chat/completions"
 )
 
+//api startcoder ai
+
 func main() {
 
 	apiKey := ""
